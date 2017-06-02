@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/natural-mall-zoom.unity
+  isLoaded: 1
+  isActive: 1
